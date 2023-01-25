@@ -1,0 +1,12 @@
+#bckgnd{
+    background-image: url(https://img.freepik.com/premium-psd/top-view-mathematics-background-with-notebook-numbers_23-2148458901.jpg?w=2000);
+   text-align: center;
+}
+div{
+    background: white;
+}
+h4{
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: 400;
+}
